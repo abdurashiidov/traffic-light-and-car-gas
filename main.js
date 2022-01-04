@@ -17,7 +17,6 @@ let  qayt = document.querySelector(".tormoz")
 let car_go = document.querySelector(".car")
 
 
-
 // function alertName(name){
 // document.body.append(name)
 // }
